@@ -1,0 +1,39 @@
+#date{
+    margin-top: 50px;
+    display: flex;
+    background-color: black;
+    color:aliceblue;
+    width: 20%;
+    
+}
+#hour{
+    background-color: red;
+    width:30px;
+    text-align: center;
+    margin-left: 2px;
+}
+#minute{
+    background-color: red;
+    margin-left: 2px;
+    text-align: center;
+    width:30px;
+
+}
+#second{
+    background-color: red;
+    margin-left: 2px;
+    width:30px;
+    text-align: center;
+}
+#day{
+    background-color: red;
+    margin-left: 2px;
+    width:30px;
+    text-align: center;
+}
+#month{
+    background-color: red;
+    margin-left: 2px;
+    width:30px;
+    text-align: center;
+}
